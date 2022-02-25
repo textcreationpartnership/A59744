@@ -1,0 +1,485 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A view of all the laws and statutes of this nation concerning the service of God or religion viz. [brace] the Holy Scripture, the Lords Day, or Sabbath, prayer, preaching, sacraments, pluralities, first fruits, tenths, residence, or non-residence, &amp;c. / by William Sheppard, Esq. ; published by command.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 47 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59744</idno>
+            <idno type="STC">Wing S3216</idno>
+            <idno type="STC">ESTC R38257</idno>
+            <idno type="EEBO-CITATION">17244747</idno>
+            <idno type="OCLC">ocm 17244747</idno>
+            <idno type="VID">106288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106288)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1100:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A view of all the laws and statutes of this nation concerning the service of God or religion viz. [brace] the Holy Scripture, the Lords Day, or Sabbath, prayer, preaching, sacraments, pluralities, first fruits, tenths, residence, or non-residence, &amp;c. / by William Sheppard, Esq. ; published by command.</title>
+                  <author>England and Wales.</author>
+                  <author>Sheppard, William, d. 1675?</author>
+               </titleStmt>
+               <extent>[7], 84, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ecclesiastical law --  England.</term>
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:106288:1"/>
+            <pb facs="tcp:106288:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:106288:2"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:106288:2" rendition="simple:additions"/>
+            <p>A VIEW Of all the Laws and Statutes of this NATION Concerning the Service of God or Religion.</p>
+            <list>
+               <head>Viz.</head>
+               <item>The holy Scripture.</item>
+               <item>The Lords day, or Sabbath.</item>
+               <item>Prayer.</item>
+               <item>Preaching.</item>
+               <item>Sacraments.</item>
+               <item>Pluralities.</item>
+               <item>Firſt Fruits.</item>
+               <item>Tenths.</item>
+               <item>Reſidence, or</item>
+               <item>Non-reſidence, &amp;c.</item>
+            </list>
+            <p>By <hi>William Sheppard,</hi> Eſq.</p>
+            <p>Publiſhed by command.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Wright</hi> at the Kings head in the Old Baily. 1655.</p>
+         </div>
+         <div type="coat_of_arms">
+            <pb facs="tcp:106288:3"/>
+            <p>
+               <figure>
+                  <p>Academiae Cantabrigienſis Liber</p>
+               </figure>
+            </p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:106288:3"/>
+            <head>The Contents.</head>
+            <list>
+               <head>OF the Service of God or Religion.</head>
+               <label>Scriptures.</label>
+               <item>Sect. 1.</item>
+               <label>Lords day or Sabbath day.</label>
+               <item>Sect. 1.</item>
+               <label>Holy daies.</label>
+               <item>Sect. 1.</item>
+               <label>Preaching.</label>
+               <item>Sect. 1. 2.</item>
+               <label>Hereſie.</label>
+               <item>Sect. 1. 2.</item>
+               <label>Prayer.</label>
+               <item>Sect. 1. 2.</item>
+               <label>Blaſphemy.</label>
+               <item>Sect. 1. 2.</item>
+               <label>Sacraments.</label>
+               <item>Sect. 1. 2.</item>
+               <label>Common prayer Book.</label>
+               <item>Sect. 2.</item>
+               <label>Churches and Church<g ref="char:EOLhyphen"/>yard.</label>
+               <item>Sect. 2. 3.</item>
+               <label>Directory.</label>
+               <item>Sect. 2.</item>
+               <label>
+                  <pb facs="tcp:106288:4"/>
+                  <hi>Chappels. Or free Chap<g ref="char:EOLhyphen"/>ples.</hi>
+               </label>
+               <item>Sect. 1. 2.</item>
+               <label>
+                  <g ref="char:V">Ʋ</g>nion and Diviſion of Churches.</label>
+               <item>Sect. 6.</item>
+               <label>Monaſteries.</label>
+               <item>Sect. 2.</item>
+               <label>Abbies.</label>
+               <item>Sect. 2.</item>
+               <label>Chauntries.</label>
+               <item>Sect. 2.</item>
+               <label>Clergie or Spiritualtie, or Miniſters.</label>
+               <item>Sect. 2. 3.</item>
+               <label>Metropolitan, or Arch<g ref="char:EOLhyphen"/>biſhop.</label>
+               <item>Sect 6</item>
+               <label>Biſhop.</label>
+               <item>Sect. 6.</item>
+               <label>Archdeacon.</label>
+               <item>Sect. 6.</item>
+               <label>Conge Se Eſlier, or leave to chooſe a Biſhop.</label>
+               <item>Sect. 6.</item>
+               <label>Regio Aſſcuſu.</label>
+               <item>Sect. 6.</item>
+               <label>Conſecration.</label>
+               <item>Sect. 6.</item>
+               <label>Suffragan.</label>
+               <item>Sect. 6.</item>
+               <label>Dilapidations.</label>
+               <item>Sect. 4.</item>
+               <label>Inſtitution and Jnduction</label>
+               <item>Sect. 3. 4.</item>
+               <label>
+                  <pb facs="tcp:106288:4"/>
+                  <hi>Firſt fruits, or Annates.</hi>
+               </label>
+               <item>Sect. 4.</item>
+               <label>Tenths,</label>
+               <item>Sect. 5.</item>
+               <label>Pluralities, or more Bene<g ref="char:EOLhyphen"/>fices then one.</label>
+               <item>Sect. 4. 5</item>
+               <label>Reſidence and non reſi<g ref="char:EOLhyphen"/>dence.</label>
+               <item>Sect. 4.</item>
+               <label>Simonie.</label>
+               <item>Sect. 4. 3.</item>
+               <label>Depoſition or Ejectment.</label>
+               <item>Sect. 3.</item>
+               <label>Chaplaine.</label>
+               <item>Sect. 4.</item>
+               <label>Subſcription of Articles,</label>
+               <item>Sect. 4.</item>
+               <label>Quod clevici non eligan<g ref="char:EOLhyphen"/>tur, &amp;c.</label>
+               <item>Sect. 5.</item>
+               <label>Quod perſonae nec Pre<g ref="char:EOLhyphen"/>bendarij &amp;c.</label>
+               <item>Sect. 5.</item>
+               <label>Convocation and Convo<g ref="char:EOLhyphen"/>cation houſe.</label>
+               <item>Sect. 5.</item>
+               <label>Augmentation.</label>
+               <item>Sect. 3. 5.</item>
+               <label>Scandalous Miniſters,</label>
+               <item>Sect. 3. 5.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:106288:5"/>
+            <pb n="1" facs="tcp:106288:5"/>
+            <head>Of the Service of God, or Religion.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S touching the<note place="margin">1, The great re<g ref="char:EOLhyphen"/>gard the law hath of Religi<g ref="char:EOLhyphen"/>on.</note> ſervice of God, or Religion, &amp; the Laws of the Nation now in force, and of uſe relating thereunto, theſe things are to be known. Firſt, That the Chriſtian re<g ref="char:EOLhyphen"/>ligion conteined in the Scriptures, is held forth and Commended as the profeſſion of theſe
+<pb n="2" facs="tcp:106288:6"/> Nations, yet ſo as no man is to be Compel<g ref="char:EOLhyphen"/>led to it by penalties, or otherwiſe then by <note place="margin">Sect. 1.</note> the endeavor of ſound Doctrine, and the ex<g ref="char:EOLhyphen"/>amples of good Con<g ref="char:EOLhyphen"/>verſation, and by the encouragement of pain<g ref="char:EOLhyphen"/>ful, and able teachers for inſtructing of the people, and Confuta<g ref="char:EOLhyphen"/>tion of errour, and he<g ref="char:EOLhyphen"/>reſie. <hi>Government, Acts</hi> 35.36. 37. 2. That ſuch as profeſſe faith in God by Jeſus Chriſt, though differing in JUdgement from the Doctrine, Diſcipline, or worſhip publickly held forth, ſhall not be re<g ref="char:EOLhyphen"/>ſtrained,
+<pb n="3" facs="tcp:106288:6"/> but protected in the profeſſion of the faith, and exerciſe of their Religion, ſo that they abuſe not this li<g ref="char:EOLhyphen"/>berty to the Civil In<g ref="char:EOLhyphen"/>jury of others, and to the Actual Diſturbance of the peace on their parts. Provided that this liberty be not ex<g ref="char:EOLhyphen"/>tended to Popery, or Prelacy, not to ſuch as under the profeſſion of Chriſt hold forth and practiſe licentiouſneſs. Government, <hi>ACts</hi> 36. 37. 38. 3. That the law hath a ſpecial re<g ref="char:EOLhyphen"/>gard of it, and there<g ref="char:EOLhyphen"/>fore it holdeth forth theſe religious princi<g ref="char:EOLhyphen"/>ples.</p>
+            <pb n="4" facs="tcp:106288:7"/>
+            <p>That Religion, and Juſtice are the main pillars of the Common wealth. 2. And that that is the beſt reaſon that makes for religion <hi>Coo.</hi> 5. 14.</p>
+            <p>The main things the law doth take care of in order to the ad<g ref="char:EOLhyphen"/>vancement, and pre<g ref="char:EOLhyphen"/>ſervation of Religion, are Religious Times, or daies; Religious things, as the holy Scriptures, holy Ordi<g ref="char:EOLhyphen"/>nances, or worſhips, and an orderly perfor<g ref="char:EOLhyphen"/>mance of them; Reli<g ref="char:EOLhyphen"/>gious places, and reli<g ref="char:EOLhyphen"/>gious orders of men and officers, ſuch as
+<pb n="5" facs="tcp:106288:7"/> are the miniſters of the Goſpel, and as to them their due Qualificati<g ref="char:EOLhyphen"/>on, Election, Diſpoſal and reward.</p>
+            <p>As touching religious<note place="margin">2. Lords day.</note> Times, theſe things are to be known.</p>
+            <p n="1">1. That by our law there is no day now or<g ref="char:EOLhyphen"/>dinarily to be kept ho<g ref="char:EOLhyphen"/>ly but the Lords day. <hi>Act</hi> 27. Sept. 1650. The Common and ſtatute law alſo doth highly advance the Authority, and ſevere<g ref="char:EOLhyphen"/>ly injoyn the Sanctifi<g ref="char:EOLhyphen"/>cation, and forbid all manner of profanation of this day. Stat. 5. and 6. Ed. 6. chap. 3.
+<pb n="6" facs="tcp:106288:8"/> 
+               <hi>Plow. 265. Coo.</hi> 9. 66.</p>
+            <p>And therefore all works (but works of Piety, Charity, and other works of neceſſi<g ref="char:EOLhyphen"/>ty) are forbidden on this day. And for this Cauſe it is, that if any part of the proceedings of a ſuite in a Court of Juſtice be entred, and recorded, as done this day, it makes it all void, and all ſerving warrants, or proceſſe on this day, but in ſpe<g ref="char:EOLhyphen"/>cial Caſes, is void: and it is a rule <hi>Dies Domini<g ref="char:EOLhyphen"/>cus non eſt juridicus.</hi> And if a Keepers Deer be ſtollen out of his Parke, whileſt he is
+<pb n="7" facs="tcp:106288:8"/> at Church ſerving God (though this in ano<g ref="char:EOLhyphen"/>ther caſe be a forfeiture of his office) yet in this caſe, and at this Time it is not at all penal to him. 5. Edw, 3. 27.</p>
+            <p n="2">2. But this not with<g ref="char:EOLhyphen"/>ſtanding, it is lawful to purſue and arreſt fe<g ref="char:EOLhyphen"/>lons ſuch as break the peace, ſuppreſſe up<g ref="char:EOLhyphen"/>roars, quench fire in houſes, viſit ſick peo<g ref="char:EOLhyphen"/>ple, and the like. <hi>Coo. 5. 83. Plow.</hi> 265.</p>
+            <p>See more of this in my office of the Ju<g ref="char:EOLhyphen"/>ſtice of peace cap. of the Lords day.</p>
+            <p n="3">3. But as to the o<g ref="char:EOLhyphen"/>ther
+<pb n="8" facs="tcp:106288:9"/> holy daies called<note place="margin">Holy daies</note> feaſt daies, they are now totally abrogated and at an end <hi>Act</hi> 27. Sept. 1650. But the 5th. day of Novemb. we are to meet once to thank God for our de<g ref="char:EOLhyphen"/>liverance from the Gunpowder Treaſon. State. 3. <hi>James.</hi> ch. 1.</p>
+            <p>As touching the ho<g ref="char:EOLhyphen"/>ly<note place="margin">3. Holy Scriptures</note> Scriptures theſe things are to be known (1) the maxims of the law concerning them, which are theſe. 1. That they are of ſoveraigne Authority, 34. H. 6. 40. 2. That the Goſpel of J'eſus Chriſt is of infal<g ref="char:EOLhyphen"/>lible truth. 3. That a<g ref="char:EOLhyphen"/>ny
+<pb n="9" facs="tcp:106288:9"/> Statute, Preſcripti<g ref="char:EOLhyphen"/>on, Cuſtome, or Can<g ref="char:EOLhyphen"/>non againſt it, is void and not to be Admit<g ref="char:EOLhyphen"/>ted. 4. To maintain,<note place="margin">4. Blaſ<g ref="char:EOLhyphen"/>phemy &amp; Hereſie.</note> and publiſh by prea<g ref="char:EOLhyphen"/>ching, printing, wri<g ref="char:EOLhyphen"/>ting, or teaching any thing contrary to them, as in the firſt place, That there is no God, that he is not preſent in all places, that he doth not know, and foreknow all things, that he is not Almigh<g ref="char:EOLhyphen"/>ty, that he is not per<g ref="char:EOLhyphen"/>fectly holy, that he is not eternal, or that ei<g ref="char:EOLhyphen"/>ther of the three per<g ref="char:EOLhyphen"/>ſons of the God head is not God, or that theſe
+<pb n="11" facs="tcp:106288:10"/> three are not one Eter<g ref="char:EOLhyphen"/>nal God, or that Chriſt the Son is not equal with the Father, or ſhal ſo divide the manhood of Chriſt, as that his Godhead &amp; manhood are ſeveral natures, or deny that the manhood of Chriſt is without ſin, or that Chriſt died, roſe again, or did not aſcend into heaven bodily, or that his death is not meritori<g ref="char:EOLhyphen"/>ous<note place="margin">Sect. 2.</note> to believers, the Reſurrection, or day of Judgement, or that the Scriptures are not the word of God, or that Chriſt is not the Son of God, and ſhall be obſtinate herein, it
+<pb n="10" facs="tcp:106288:10"/> is felony. And in the ſecond place if any man affirm as before that all ſhall be ſaved, that man hath free wil, that God may be wor<g ref="char:EOLhyphen"/>ſhipped by Images, Purgatory, or that the ſoul dieth or ſleepeth after death, that the revelations or wor<g ref="char:EOLhyphen"/>kings of the ſpirit are a rule of faith, though a<g ref="char:EOLhyphen"/>gainſt the word, that man is not to be<g ref="char:EOLhyphen"/>lieve above reaſon, that the moral law is at an end, that a Chri<g ref="char:EOLhyphen"/>ſtian need not pray nor repent, that baptizing of Infants is void and unlawful, or deny the
+<pb n="12" facs="tcp:106288:11"/> Lords day, or Sacra<g ref="char:EOLhyphen"/>ments, or the Miniſters, and Magiſtrates office, or are rebaptized, and be obſtinate herein, is to be impriſoned, till he give ſureties not to do ſo again. And in the third place, if any ſeriouſly maintain (he being not diſtracted) by word or writing, a<g ref="char:EOLhyphen"/>ny creature to be God, or to be equal with God in his Attributes, or that God dwells in the Creature or ſhall deny the holineſſe, and righteouſneſſe of God, or ſay that wicked perſons, or wickedneſs, or wicked acts of ſwea<g ref="char:EOLhyphen"/>ring,
+<pb n="13" facs="tcp:106288:11"/> drunkenneſſe, or lewdneſſe, are not un<g ref="char:EOLhyphen"/>holy againſt Gods word, or are approved by him, or that ſuch things, or ſuch per<g ref="char:EOLhyphen"/>ſons therein are like God, or ſhall ſay that theſe acts of denying or Balſpheming God, or the holineſſe, or righteouſneſſe of God, or that the acts of cur<g ref="char:EOLhyphen"/>ſing God, or ſwearing profainly or falſly by the name of God, or the acts of lying, ſtea<g ref="char:EOLhyphen"/>ling, couſening and de<g ref="char:EOLhyphen"/>frauding others, Sodo<g ref="char:EOLhyphen"/>my, Drunkeneſſe, fil<g ref="char:EOLhyphen"/>thy and Laſcivious ſpeaking, are not
+<pb n="14" facs="tcp:106288:12"/> things in themſelves ſhameful, wicked, and abominable in any per<g ref="char:EOLhyphen"/>ſon whatſoever to be practiſed, or ſhall affirm that the acts of Adul<g ref="char:EOLhyphen"/>tery, Drunkenneſs, and the like open wicked<g ref="char:EOLhyphen"/>neſſe are in their own nature as holy, and righteous, as prayer preaching, or giving thanks to God, or ſhall maintain, That what<g ref="char:EOLhyphen"/>ever wickedneſſe is a<g ref="char:EOLhyphen"/>cted by them may be done without ſin, or that ſuch acts are acted by God, or the Majeſty of God, or eternity that is in them, that heaven and happineſſe
+<pb n="15" facs="tcp:106288:12"/> is in the acting of theſe things, or that ſuch men as act them are moſt like to God or E<g ref="char:EOLhyphen"/>ternity, which do com<g ref="char:EOLhyphen"/>mit the greateſt ſins with leaſt remorſe, or ſenſe: or that there is no ſuch thing really and truly as ſin, un<g ref="char:EOLhyphen"/>righteouſneſſe, or un<g ref="char:EOLhyphen"/>holineſſe, but as a man or woman judgeth thereof, or that there is neither heaven, nor hell, ſalvation or dam<g ref="char:EOLhyphen"/>nation, or that theſe are one and the ſame thing &amp;c. For the firſt offence herein he is to be impriſoned in the Gaole, or Bridewel 3.
+<pb n="16" facs="tcp:106288:13"/> months without Baile? for the ſecond offence to be baniſhed, and if he return to ſuffer as a fellon. <hi>Ord. 2. May. 1648. 9. Auguſt</hi> 1650. But now we muſt examine how the puniſhment of men upon theſe will ſtand with the Articles of the Government, which willeth that men be not puniſhed for their opinions that hold the head-faith in God by Jeſus Chriſt, and do not Injury, nor make diſturbance, nor hold forth nor practiſe Popery nor Licenti<g ref="char:EOLhyphen"/>ouſneſſe. It ſeems then neceſſary here to di<g ref="char:EOLhyphen"/>ſtinguiſh
+<pb n="17" facs="tcp:106288:13"/> amongſt theſe opinions, and to make theſe onely puniſhable by theſe Acts and Or<g ref="char:EOLhyphen"/>dinances, which deny the Godhead in his Eſſence, or Attributes, or Chriſt in his natures, or offices, of which ſort are moſt of the firſt, and laſt ranke: And all thoſe that tend to Li<g ref="char:EOLhyphen"/>centiouſneſſe, as all thoſe of the laſt ranke. And thoſe that are po<g ref="char:EOLhyphen"/>piſh, as Freewil, Purga<g ref="char:EOLhyphen"/>tory, Images, and the like, ſuch as are againſt the Scripture, as that revelations and wor<g ref="char:EOLhyphen"/>kings of the ſpirit are the rule of faiththough
+<pb n="18" facs="tcp:106288:14"/> againſt the word of God and ſuch like. And thoſe that are a<g ref="char:EOLhyphen"/>gainſt Magiſtracy, and<note place="margin">Sect. 2.</note> Miniſtry altogether, and ſuch like, which are againſt peace, and tend to licentiouſneſſe: that theſe onely are to be puniſhed: And that the Leſſer, and not Dangerous opinions, Denying Presbitery, baptizing of Infants, and affirming that men muſt be rebaptized, and the like, That theſe are not puniſha<g ref="char:EOLhyphen"/>ble now by theſe laws. Quere therefore well of this.</p>
+            <p>As touching the ex<g ref="char:EOLhyphen"/>ternal
+<pb n="19" facs="tcp:106288:14"/> worſhip of God,<note place="margin">5. The Prea<g ref="char:EOLhyphen"/>ching and Hearing of Gods word: Prayer to, and pray<g ref="char:EOLhyphen"/>ſing of God: And Ad<g ref="char:EOLhyphen"/>miniſtra<g ref="char:EOLhyphen"/>tion of the Sa<g ref="char:EOLhyphen"/>craments.</note> by preaching and hea<g ref="char:EOLhyphen"/>ring Gods word, pray<g ref="char:EOLhyphen"/>er to, and the praiſing of God, and the Admini<g ref="char:EOLhyphen"/>ſtration of the Sacra<g ref="char:EOLhyphen"/>ments, theſe things are to be known.</p>
+            <p n="1">1. The Law requireth that theſe things are to be done.</p>
+            <p n="2">2. That they be ſo<g ref="char:EOLhyphen"/>lemnly, conſtantly, unanimouſly, purely, reverently, and De<g ref="char:EOLhyphen"/>voutly done, and per<g ref="char:EOLhyphen"/>formed both by the Miniſter, and the peo<g ref="char:EOLhyphen"/>ple: ſee it in the Stat. 5. &amp; 6. Edw. 6. 1. 1. Eliz. 2. 23. Eliz. 1. 13. Eliz. 1. but moſt lively and ex<g ref="char:EOLhyphen"/>cellently
+<pb n="20" facs="tcp:106288:15"/> in the pream<g ref="char:EOLhyphen"/>ble of the ſtatute of 5. &amp; 6. Ed. 6. cap. 3. &amp; cap. 1. 1 Ed. 6. cap. 1. 2. &amp; 3. Ed. 6. 1.</p>
+            <p n="3">3. But men are not by law bound now to, but forbidden the uſe<note place="margin">6. Com<g ref="char:EOLhyphen"/>mon<g ref="char:EOLhyphen"/>prayer-book.</note> of the book of Com<g ref="char:EOLhyphen"/>mon prayer, nor are men now bound in the worſhip of God to the ſuperſtitious rights thereby injoyned and formerly uſed, as the Croſſe in Baptiſme, kneeling at the Lords Supper, and bowing at the name of Jeſus: But theſe are ſent after the Abominable Maſſe to the place from whence
+<pb n="21" facs="tcp:106288:15"/> they came, Act 27. Sep. 1650. Ordinance 3. Jan. 1644. Ordi. 23. Auguſt 1645. But the external form, and Or<g ref="char:EOLhyphen"/>der<note place="margin">7. Dire<g ref="char:EOLhyphen"/>ctory.</note> now by the law ſet forth, and Commen<g ref="char:EOLhyphen"/>ded to the Nation for the doing of theſe ſer<g ref="char:EOLhyphen"/>vices of God is the Di<g ref="char:EOLhyphen"/>rectory. For this by a law is to be put in ex<g ref="char:EOLhyphen"/>ecution for publick worſhip in all places, Ord. 23. Auguſt 1645. And as to theſe things this is here to be known. 1. He that uſeth the Common<g ref="char:EOLhyphen"/>prayer book in publick or private, forfeits for the firſt offence 5 l. for
+<pb n="22" facs="tcp:106288:16"/> the ſecond offence 10. <hi>l.</hi> for the third offence Impriſonment for a year without Baile. 2. He that doth not uſe the Directory, or by writing, or otherwiſe doth deprave it, ſhall be fined by the Judges at their diſcretion, not under 5 <hi>l.</hi> nor above 50 <hi>l.</hi> This law ſeems now to be altered by the Government. <hi>Art.</hi> 36. 37. 38. And that no man now is to be moleſted about formes of Religion: And that this is the ſenſe of the preſent Authority ap<g ref="char:EOLhyphen"/>peares by the Ordi<g ref="char:EOLhyphen"/>nance for ejecting of
+<pb n="23" facs="tcp:106288:16"/> ſcandalous Miniſters <hi>Aug.</hi> 29. 1654.</p>
+            <p>As touching Religi<g ref="char:EOLhyphen"/>ous places, ſuch as are Churches, and Chap<g ref="char:EOLhyphen"/>pels,<note place="margin">8. Chur<g ref="char:EOLhyphen"/>ches.</note> which are greater, and leſſer meeting places of pariſhes, only theſe things are to be known.</p>
+            <p n="1">1. That the law doth not own them as pla<g ref="char:EOLhyphen"/>ces capable of holi<g ref="char:EOLhyphen"/>neſſe by any Conſecra<g ref="char:EOLhyphen"/>tion, but as conveni<g ref="char:EOLhyphen"/>ent places for the meeting of the people, and doth therfore take care for the keeping of them repaired, For which ſee my Book of the office of Church-Wardens,
+<pb n="24" facs="tcp:106288:17"/> and <hi>Act 9. Feb.</hi> 1647.</p>
+            <p n="2">2. The law doth take order for keeping of the Congregations there about Gods wor<g ref="char:EOLhyphen"/>ſhip in peace without Diſturbance, &amp; there<g ref="char:EOLhyphen"/>fore any Diſturbance done there is very pe<g ref="char:EOLhyphen"/>nal, 2. &amp; 3. <hi>Ed. 6 ch. 1. 1 Eliz. 2. 1 Marie</hi> 3. And all fighting, quar<g ref="char:EOLhyphen"/>relling, or ſtriking there, or in the Church<g ref="char:EOLhyphen"/>yard, is to be ſeverely puniſhed, <hi>Stat.</hi> 5. &amp; 6. <hi>Ed.</hi> 6. 4.<note place="margin">Church<g ref="char:EOLhyphen"/>yard.</note>
+            </p>
+            <p n="3">3 For the better ſe<g ref="char:EOLhyphen"/>curing hereof, the Church-yard is alſo to be defended in peace.
+<pb n="25" facs="tcp:106288:17"/> 
+               <hi>Stat. 5. &amp; 6. Ed. 6. ch.</hi> 4.</p>
+            <p>It is therefore order<g ref="char:EOLhyphen"/>ed, that if any do ma<g ref="char:EOLhyphen"/>liciouſly ſtrike another, or draw his weapen of purpoſe to ſtrike ano<g ref="char:EOLhyphen"/>ther in any Church, or Church yard, he is to have one of his ears cut off. 5. &amp; 6. <hi>Ed. 6. ch.</hi> 4.</p>
+            <p n="4">4. But the pariſhi<g ref="char:EOLhyphen"/>oners are not now bound as heretofore to come to their own Aſ<g ref="char:EOLhyphen"/>ſemblies, or pariſh, or to any pariſh Church to ſerve God, but ſo as <note place="margin">Going to Church,</note> they ſerve him, they may joyne themſelves unto what Aſſembly, and in what place they
+<pb n="26" facs="tcp:106288:18"/> pleaſe. <hi>Act 27. Sep.</hi> 1650.</p>
+            <p n="5">5. As for other pla<g ref="char:EOLhyphen"/>ces called heretofore religious houſes, ſuch<note place="margin">Monaſte<g ref="char:EOLhyphen"/>ries, Abbies, Chantries</note> as were Abbies, Priorys Monaſteries, Chantries, being places of ſuper<g ref="char:EOLhyphen"/>ſtitious chanting or ſinging, and ſuch like houſes they are aboli<g ref="char:EOLhyphen"/>ſhed, and gone, and Conventual Cathedral Churches, for Biſhops, Deans &amp; ſuch, like are going after them, but it is pariſh Churches and Chappels the law takes care of. <hi>See Free Chap<g ref="char:EOLhyphen"/>pel.</hi>
+            </p>
+            <p>As touching Religi<g ref="char:EOLhyphen"/>ous<note place="margin">9. Religi<g ref="char:EOLhyphen"/>ous Per<g ref="char:EOLhyphen"/>ſons, or Clergy.</note> perſons, that is Mi<g ref="char:EOLhyphen"/>niſters, and preachers
+<pb n="27" facs="tcp:106288:18"/> of the Goſpel ſome<g ref="char:EOLhyphen"/>times called in our law by the name of religi<g ref="char:EOLhyphen"/>ous men, ſometimes by the name of Clergy<g ref="char:EOLhyphen"/>men, ſometimes Eccle<g ref="char:EOLhyphen"/>ſiaſtical perſons, ſome<g ref="char:EOLhyphen"/>times ſpiritual perſons, ſometimes (but impro<g ref="char:EOLhyphen"/>perly) the Church, and ſometimes Parſones, Curates, and Vicars, as to theſe, and the law concerning them, in order to the preſerva<g ref="char:EOLhyphen"/>tion of religion, theſe things are to be known. 1. That they are to be well qualified<note place="margin">Sect. 3.</note> for, and orderly Cal<g ref="char:EOLhyphen"/>led, and Admitted into the office, and then be<g ref="char:EOLhyphen"/>ing
+<pb n="28" facs="tcp:106288:19"/> called to any peo<g ref="char:EOLhyphen"/>ple or pariſh their du<g ref="char:EOLhyphen"/>ty is to look to, and watch for the ſouls of theſe people, to diſ<g ref="char:EOLhyphen"/>pence the bread of life by preaching, to pray for the people, to uſe and ſhew charity to<g ref="char:EOLhyphen"/>ward the poor, and hoſpitlity towards all; and that this may be the better done, the law doth require they ſhould be reſident, and will not allow them to be abſent from their Charges, but by ſome ſpecial diſpenſation. And for this they are to have the profits of the Church, and church<g ref="char:EOLhyphen"/>hay
+<pb n="29" facs="tcp:106288:19"/> the Glebe land, and the Tythes of all the yearly increaſe within the pariſh, alſo the oblations, obventi<g ref="char:EOLhyphen"/>ons, and mortuaries u<g ref="char:EOLhyphen"/>ſually paid in the place, And all encourage<g ref="char:EOLhyphen"/>ments; And that the preſent maintenance by Tythes be not taken away, nor impeach<g ref="char:EOLhyphen"/>ed, until a better pro<g ref="char:EOLhyphen"/>viſion can be made: <hi>Government: Art.</hi> 35. And in reſpect of their continual Attendance upon their ſacred fun<g ref="char:EOLhyphen"/>ction, they are freed fro<g ref="char:cmbAbbrStroke">̄</g> all perſonal charges that may hinder them in their calling, for ſuch
+<pb n="30" facs="tcp:106288:20"/> ſhall not be choſen, Ba<g ref="char:EOLhyphen"/>liffs, Beedles, Reeues, or other ſuch like offi<g ref="char:EOLhyphen"/>cers, nor be compelled to come to the Sheriffs Leete, and they may have an action of Treſ<g ref="char:EOLhyphen"/>paſſe for any Treſpaſſe in the Trees, or Graſſe of the Glebe, or Church hay, they may make any leaſe of their Tythes, or their Glebe during the time they are Parſons, but they can do no Act to barre their ſucceſſors now, unleſſe it be within the ſtatutes of Eccleſiaſti<g ref="char:EOLhyphen"/>cal perſons: for they have not the meer right of the land in
+<pb n="31" facs="tcp:106288:20"/> them in right of their Churches, but the fee<g ref="char:EOLhyphen"/>ſimple is in Abeyance, and therefore they cannot Diſcontinue, but every Act they doe will be avoided, when they ceaſe to be in<g ref="char:EOLhyphen"/>cumbents, except ſuch as be done by conſent of Patrone and Ordi<g ref="char:EOLhyphen"/>nary which will binde for ever, if none of the ſtatutes touching Ec<g ref="char:EOLhyphen"/>cleſiaſtical perſons hin<g ref="char:EOLhyphen"/>der. But for the par<g ref="char:EOLhyphen"/>ticular opening of theſe things and the ſetting forth the law herein, as it ſtands at this day we ſhall ſpeak
+<pb n="32" facs="tcp:106288:21"/> ſomething to theſe two things. 1. What he is to be and do. 2. What he is to have and receive; For the firſt of theſe.</p>
+            <p n="1">1. The law requires<note place="margin">Quallifi<g ref="char:EOLhyphen"/>cation of Miniſters.</note> that ſuch as enter into the office of a preacher of the Goſpel be duly qualified, that he be unblamable in Con<g ref="char:EOLhyphen"/>verſation, found in o<g ref="char:EOLhyphen"/>pinion, able to teach, and for this the Biſhop was carefully to exa<g ref="char:EOLhyphen"/>mine him, and by in<g ref="char:EOLhyphen"/>formation from others to ſatisfie himſelf here<g ref="char:EOLhyphen"/>in: and now there are called commiſſioners
+<pb n="33" facs="tcp:106288:21"/> ſpecially appointed to try, examine, and Ad<g ref="char:EOLhyphen"/>mit ſuch as are pre<g ref="char:EOLhyphen"/>ſented to any place: And as touching them, and this thing, know theſe things: Firſt, that none can come into any Benefice, or Lecture now, but he muſt paſſe through this examination, and have their Approbati<g ref="char:EOLhyphen"/>on under ſeal of their office. Secondly, this being done, it will be as much, and as<note place="margin">Inſtituti<g ref="char:EOLhyphen"/>on and Inducti<g ref="char:EOLhyphen"/>on.</note> good as Inſtitution, and induction. Third<g ref="char:EOLhyphen"/>ly, Theſe Commiſſio<g ref="char:EOLhyphen"/>ners, before they ap<g ref="char:EOLhyphen"/>prove
+<pb n="34" facs="tcp:106288:22"/> any muſt have a Certificate under the hands of three perſons at leaſt, whereof one a Miniſter of known Godlineſſe and inte<g ref="char:EOLhyphen"/>grity, of the holy and good Converſation of the man. Fourthly,<note place="margin">Augmen<g ref="char:EOLhyphen"/>tation.</note> All perſons that will receive any Augmen<g ref="char:EOLhyphen"/>tation, by Parliament proviſion muſt be thus Approved, and Al<g ref="char:EOLhyphen"/>lowed. <hi>Ord. 20. March</hi> 1653.</p>
+            <p n="2">2. He ought to be Admitted, and Allow<g ref="char:EOLhyphen"/>ed: he was therefore to be Called, Approved, and allowed by a Bi<g ref="char:EOLhyphen"/>ſhop
+<pb n="35" facs="tcp:106288:22"/> or by one of the Univerſities. And with out this no man was to have taken upon him<note place="margin">Preſenta<g ref="char:EOLhyphen"/>tion.</note> the office. <hi>Stat. 13. Eliz. 12. 31. Eliz.</hi> 26. 3. And he that is to come to a Benefice at this day muſt have ſome kinde of preſentation to it, ſuch as the time doth yeild, if it be from the LORD PROTECTOR, or the Keepers of the great Seal by the great Seal, from any other, he muſt have a gift, or collation: but here by the way for a third thing it muſt be noted, that the preſentation;
+<pb n="36" facs="tcp:106288:23"/> Collation muſt be free, and the Incum<g ref="char:EOLhyphen"/>bent muſt come in without corruption. And it is therefore pro<g ref="char:EOLhyphen"/>vided by the 13. <hi>Eliz. cap.</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. that if any ſell any ſpiritual living, as if a patron take money, or other reward to preſent his Clerk or a clergy man to any par<g ref="char:EOLhyphen"/>ſonage, or Vicarage, or take upon him the Parſon, or Vicar, or promiſe for any re<g ref="char:EOLhyphen"/>ward to reſigne a<g ref="char:EOLhyphen"/>gain upon requeſt; all ſuch preſentations and the Inſtitutions and Inductions thereupon
+<pb n="37" facs="tcp:106288:23" rendition="simple:additions"/> gotten by this means are void, and the party giving, and taking doe each of them forfeit the double value of the church for one year, And the party that doth give is here<g ref="char:EOLhyphen"/>by made incapable of<note place="margin">10. Si<g ref="char:EOLhyphen"/>mony.</note> that Church for ever. <hi>Stat. 13. Eliz. chap.</hi> 6. wherein theſe things are farther to be known.</p>
+            <p n="1">1. That if a man give the reward himſelf he is ſaid to be <hi>ſimonia<g ref="char:EOLhyphen"/>cus,</hi> but if it be given by another without his privity, he is ſaid to be <hi>ſimoniace promotus,</hi>
+               <pb n="38" facs="tcp:106288:24"/> and in both caſes it is alike Dangerous and penal, <hi>Coo.</hi> on <hi>Litt.</hi> 120. 2. A (the Church be<g ref="char:EOLhyphen"/>ing void) contracts Si<g ref="char:EOLhyphen"/>moniacally with the patron to have the pre<g ref="char:EOLhyphen"/>ſentation, and upon this Corrupt Agree<g ref="char:EOLhyphen"/>ment he preſents R, a man ignorant of this agreement: in this Caſe he was removed: <hi>Cal<g ref="char:EOLhyphen"/>verts</hi> Caſe in the Ex<g ref="char:EOLhyphen"/>chequer in Brownlows Rep. 2. part. 164.</p>
+            <p n="3">3. This law of Simo<g ref="char:EOLhyphen"/>ny doth hold as well where the patron that doth preſent is an u<g ref="char:EOLhyphen"/>ſurper, as otherwiſe,
+<pb n="39" facs="tcp:106288:24"/> but in this caſe the rightful patron, and not the LORD PRO<g ref="char:EOLhyphen"/>TECTOR ſhall have the next preſentation, but otherwiſe it is where the rightful patron doth make ſuch a corrupt contract. <hi>Coo.</hi> on <hi>Litt.</hi> 120.</p>
+            <p>For in this caſe albe<g ref="char:EOLhyphen"/>it he that comes in up<g ref="char:EOLhyphen"/>on this corrupt con<g ref="char:EOLhyphen"/>tract be admitted, and die in the Parſonage,<note place="margin">Sect. 4,</note> yet the LORD PROTE<g ref="char:EOLhyphen"/>CTOR hath not loſt his Turn, but ſhall preſent: but if he had reſigned, or made ceſſion, and then another had been
+<pb n="40" facs="tcp:106288:25" rendition="simple:additions"/> preſented, and then the firſt Clerk had died, then the LORD PRO<g ref="char:EOLhyphen"/>TECTOR had loſt his preſentment. Brown<g ref="char:EOLhyphen"/>lows Rep. 1. part. 164.</p>
+            <p n="4">4. But to Sell or buy for onesſelf, or for ſome other the next Avoy<g ref="char:EOLhyphen"/>dance of a Benefice for reward, it ſeems is not ſymony <hi>M. 8. Jac. B. R.</hi> And yet ſee <hi>Winch<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ombes</hi> caſe 14. <hi>Jac. C. B.</hi> the caſe was, <hi>A,</hi> a Clerk, when the Church was full, agree with the pa<g ref="char:EOLhyphen"/>trone to give him 98. 1. when the Church ſhould become void,
+<pb n="41" facs="tcp:106288:25"/> the then Incumbent being a very old, and ſickly man, and Agreed that the patron ſhould grant the next Avoi<g ref="char:EOLhyphen"/>dance to a friend of the Clerks who did preſent him, this was held a Simonical contract. ſee in this <hi>Rep. 2. page.</hi> 7.</p>
+            <p>A contract by one with the Patrons bro<g ref="char:EOLhyphen"/>ther (the Church being then full) that if he could procure three grants of the next A<g ref="char:EOLhyphen"/>voidance to be ſurren<g ref="char:EOLhyphen"/>dred, and the patron to preſent him when it became void, he would make him a leafe of parcel of the Tythes of
+<pb n="42" facs="tcp:106288:26"/> the Rectory, and he during the life of the Incumbent got the grants to be ſurren<g ref="char:EOLhyphen"/>dred, and all the reſt was done, and it was Agreed to be void.</p>
+            <p n="5">5. And in this caſe the Church wil be void without deprivation or ſentence Declarato<g ref="char:EOLhyphen"/>ry: <hi>March 84. pl.</hi> 139.</p>
+            <p n="6">6. An Incumbent preſented by <hi>Simony</hi> cannot ſue a pariſhio<g ref="char:EOLhyphen"/>ner for Tythe. <hi>March 84. pl.</hi> 139. ſee more <hi>Coo. 3. part. Inſt cap.</hi> 71.</p>
+            <p>But the law at this<note place="margin">Subſcrip<g ref="char:EOLhyphen"/>tion and reading of Arti<g ref="char:EOLhyphen"/>cles.</note> day doth not require that he ſhould read and ſubſcribe the Ar<g ref="char:EOLhyphen"/>ticles
+<pb n="43" facs="tcp:106288:26"/> of Religion, nor<note place="margin">Oath of ſuprema<g ref="char:EOLhyphen"/>cy.</note> take the Oath of Su<g ref="char:EOLhyphen"/>premacy, nor obſerve any of the Orders, formes, or Ceremonies conteined in the Book of common prayer, or in the Cannons, nor that he ſhould be In<g ref="char:EOLhyphen"/>ſtituted and Inducted into a Benefice when he is to receive it, but it is ſufficient that the ſame be given to, or Conferd upon him.<note place="margin">Com<g ref="char:EOLhyphen"/>mon<g ref="char:EOLhyphen"/>prayer.</note> And now by the new Ordinance <hi>March</hi> 20. 1653. it is declared that all thoſe that come into any Bene<g ref="char:EOLhyphen"/>fice according to the rules thereof, ſhall be
+<pb n="44" facs="tcp:106288:27"/> as fully intitled to the<note place="margin">Inſtituti<g ref="char:EOLhyphen"/>on and Innucti<g ref="char:EOLhyphen"/>on.</note> ſame, as if they had been inſtituted, and inducted into it: and by another new Ordi<g ref="char:EOLhyphen"/>nance, 30 <hi>Auguſt.</hi> 1654. it is provided, That where one was for<g ref="char:EOLhyphen"/>merly Evicted or ſe<g ref="char:EOLhyphen"/>queſtred, and yet he keepes in the place, and none was put in by the 30th of <hi>Auguſt</hi> 1654. the Patron may preſent within four Moneths after the 28th of <hi>Auguſt</hi> 1654. to the Co<g ref="char:cmbAbbrStroke">̄</g>miſſioners for ap<g ref="char:EOLhyphen"/>probation, &amp; they may admit him. And in places of all ſuch Mi<g ref="char:EOLhyphen"/>niſters as the Commiſ<g ref="char:EOLhyphen"/>ſioners
+<pb n="45" facs="tcp:106288:27"/> of the Counties ſhall eject for ſcandal &amp;c. the Patron muſt preſent within four moneths after the E<g ref="char:EOLhyphen"/>jectment to the Com<g ref="char:EOLhyphen"/>miſſioners for Appro<g ref="char:EOLhyphen"/>bation. And if he that is ejected die or reſign, theſe Co<g ref="char:cmbAbbrStroke">̄</g>miſſioners for approbation may give the Miniſter admiſſion, and this is as good as Inſtitution and Indu<g ref="char:EOLhyphen"/>ction in all theſe caſes.</p>
+            <p n="2">2. Being in the of<g ref="char:EOLhyphen"/>fice, and a charge in his hands, he ought then to be reſident, and abiding amongſt his people, and there to<note place="margin">2. Non-Reſidence what it is.</note> watch over, and look
+<pb n="46" facs="tcp:106288:28"/> to their ſouls, and there to be an example of piety, ſobriety, ho<g ref="char:EOLhyphen"/>neſty, Charity, and hoſpitality to them. And it is forbidden him to be non reſident And therefore plura<g ref="char:EOLhyphen"/>lity<note place="margin">Pluralli<g ref="char:EOLhyphen"/>tie, what it is.</note> (that is) that ſuch a man ſhould have two or more ſpiritual li<g ref="char:EOLhyphen"/>vings, or promotions is generally forbidden to ſuch a man; And the Conſequence of it is this, that by the taking of the ſecond the firſt doth become void, and<note place="margin">ceſſion, what.</note> he looſeth the firſt by Ceſſion. And this is againſt the Ancient common law it ſelf;
+<pb n="47" facs="tcp:106288:28"/> And it is now forbid<g ref="char:EOLhyphen"/>den by divers ſtatutes, except only in ſome<note place="margin">Chap<g ref="char:EOLhyphen"/>plaine, who.</note> ſpecial caſes, to ſome great mens Chaplains (that is) ſuch Mini<g ref="char:EOLhyphen"/>ſters as depend upon them for the ſervice of God in their houſes, where commonly they have a Chappel. But if any ſuch perſon ha<g ref="char:EOLhyphen"/>ving a Benefice (be it<note place="margin">Where a Miniſter may be non reſi<g ref="char:EOLhyphen"/>dent and have plu<g ref="char:EOLhyphen"/>ralitie of livings. Or not.</note> parſonage or vicarage) ſhall not be reſident upon it, but wilfully abſent himſelf by the ſpace of one moneth for a time, or two moneths at ſeveral times in one year, he looſeth 10. 1. by the
+<pb n="48" facs="tcp:106288:29" rendition="simple:additions"/> Stat. of 21 <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. 8. 13. and no diſpenſation will ſerve in this caſe. But ſuch perſons as were in the Kings ſervice be<g ref="char:EOLhyphen"/>yond the ſea during that time only, ſchol<g ref="char:EOLhyphen"/>lars under forty years old ſtudying at the U<g ref="char:EOLhyphen"/>niverſity, that have of<g ref="char:EOLhyphen"/>ſice, or doe exerciſe there, and are in the Univerſity, and preſent at their houſe Excrci<g ref="char:EOLhyphen"/>ſes, and ſuch as did exerciſes themſelves, the Chaplaines of the King, and divers other great perſons might have been non reſident ſo long as they were Attending upon
+<pb n="49" facs="tcp:106288:29" rendition="simple:additions"/> ſuch great men in their houſes; ſo ſuch as are impriſoned, or ſick or attending upon, and by order of any Court, are excuſed of their re<g ref="char:EOLhyphen"/>ſidence. And if there be a Parſonage houſe, ſome hold that he muſt be reſident upon it, but if not he may reſide elſe where in the place. <hi>Coo. 4. 79. 118. 9. Ed. 3. 22. F. N. B. 34. Arti<g ref="char:EOLhyphen"/>culi cleri. 8. 9. Ed. 2. 14. H. 8. 17. Co. 6. 21. Stat. 28. H. 8. 23. 26. H. 8. 14. 15. 11. 8. 16. 33. H.</hi> 8. 28. If any man that hath a Benefice with Cure of ſouls of the yearly valew of 8. l. or
+<pb n="50" facs="tcp:106288:30"/> above do accept of, and ſhall be duly put into another Benefice with cure of ſouls, and be in poſſeſſion there<g ref="char:EOLhyphen"/>of, the firſt ſhall be Ad<g ref="char:EOLhyphen"/>judged void, and the patron may preſent a<g ref="char:EOLhyphen"/>gain; And no diſpen<g ref="char:EOLhyphen"/>ſation can be in this Caſe.</p>
+            <p n="2">2. He is amongſt his people to teach no<g ref="char:EOLhyphen"/>thing but ſound do<g ref="char:EOLhyphen"/>ctrine and purely to adminiſter the holy Sacraments, he is to take care of the holy worſhip of God. For this ſee <hi>Coo. 11. 70. 6. 21. Stat. 13. Eliz. ch. 12. 2. and 3. Ed. 6. 1. 5. and</hi>
+               <note place="margin">Sect. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <pb n="51" facs="tcp:106288:30" rendition="simple:additions"/> 6. <hi>Ed.</hi> 6. 6.</p>
+            <p n="3">3. He is to preach once the 5<hi rend="sup">th</hi> of <hi>Novem. Stat 3. Jac.</hi> 1.</p>
+            <p n="4">4. But he is not bound now to, but for<g ref="char:EOLhyphen"/>bidden the uſe of the Common-prayer-book<note place="margin">Com<g ref="char:EOLhyphen"/>mon-prayer.</note> nor is he bound now to any Ceremonies there<g ref="char:EOLhyphen"/>in,<note place="margin">Ceremo<g ref="char:EOLhyphen"/>nies,</note> nor any thing en<g ref="char:EOLhyphen"/>joyned concerning the ſame, or by the Biſhops Canons, or touching the reading of the Ar<g ref="char:EOLhyphen"/>ticles of Religion, or the ſtatute of 5. and 6. <hi>Ed.</hi> 6. to perſwade men to come to their pariſh Church, for theſe laws are abrogate <hi>Ordi. March 5. 1653. Act</hi> 27.
+<pb n="52" facs="tcp:106288:31" rendition="simple:additions"/> 
+               <hi>Sept. 1650. Ordi. 3. Jan.</hi> 1644.</p>
+            <p n="5">5. He is to take care<note place="margin">12. D la<g ref="char:EOLhyphen"/>pidations.</note> to keep up, and main<g ref="char:EOLhyphen"/>tain in good repair the houſes, and buildings ſtanding upon, and be<g ref="char:EOLhyphen"/>longing to his Benefice. For if there be any di<g ref="char:EOLhyphen"/>lapidations (that is) wilful, or negligent ruine, or decay there<g ref="char:EOLhyphen"/>in, the executors, or Adminiſtrators of the perſons in whoſe time the ſame was done or ſuffered, muſt make a<g ref="char:EOLhyphen"/>mends to him that doth ſucceed in the ſame ſpiritual living, And he might have ſued for the ſame in
+<pb n="53" facs="tcp:106288:31" rendition="simple:additions"/> the ſpiritual court. And if the offender in this caſe had made a deed of Gift, to defeat the ſucceſſor of the ef<g ref="char:EOLhyphen"/>fect of his ſuit, it had been void <hi>Stat. 13. Eliz.</hi> 10. The ſpiritual court being now gone, we know not what reme<g ref="char:EOLhyphen"/>dy may be had in this caſe, unleſſe the Chan<g ref="char:EOLhyphen"/>cery will give relief herein. But by the new Ordinance <hi>Aug.</hi> 29. 1654. The Mini<g ref="char:EOLhyphen"/>ſters put into places in the room of others put out for ſcandal &amp;c. are to look to the repair of the houſes, and be forced by Juſtices of
+<pb n="54" facs="tcp:106288:32"/> the peace thereto. Alſo the ſequeſtrators whilſt they have it in their hands muſt repair out of the profits.</p>
+            <p>He is to take care to<note place="margin">13. Firſt fruit and Annates what.</note> Diſcharge the Firſt<g ref="char:EOLhyphen"/>fruits and Tenths, that the charge thereof be not left upon his ſuc<g ref="char:EOLhyphen"/>ceſſor; The firſt fruits are the profits of eve<g ref="char:EOLhyphen"/>ry ſpiritual living for one year. And this had now been given to the LORD PROTE<g ref="char:EOLhyphen"/>CTOR, the Ordering of which is in the Exche<g ref="char:EOLhyphen"/>quer. For every one that is choſen, appoin<g ref="char:EOLhyphen"/>ted, and preſented to any parſonage, or
+<pb n="55" facs="tcp:106288:32"/> vicaridge which doth exceed the valew of 8. Markes muſt before he intermeddle with the profits thereof, pay un<g ref="char:EOLhyphen"/>to, or agree, and give ſecurity for to the LORD PROTECTOR, or ſuch as he doth ap<g ref="char:EOLhyphen"/>point to take the ſame, the firſt fruits of their ſpiritual promotion, under pain to forfeit the double Valew thereof. And if the Benefice be under 8. Markes in valew, then he is to give ſecurity to pay the ſame firſt fruits three years after his induction thereunto <hi>Stat 27. 8. 7. and</hi> 3.
+<pb n="56" facs="tcp:106288:33" rendition="simple:additions"/> 
+               <hi>Ed. 6. 20. 7. Ed. 6. 4. 1. Eli. 4. 34. 35. H. 8. 17. Stat. 26. H. 8. cap. 45. 5. March ch. 10. 1. Eliz. ch.</hi> 4. But it ſeemes all this now is ſet a part for the main<g ref="char:EOLhyphen"/>tenance of the Miniſte<g ref="char:EOLhyphen"/>ry. See <hi>Act 8. June</hi> 1649.</p>
+            <p>So alſo he is to diſ<g ref="char:EOLhyphen"/>charge<note place="margin">Tenths what.</note> the tenths; the tenths are a yearely portion of Tribute to the value of the tenth part of all the profits appertaning to a ſpiri<g ref="char:EOLhyphen"/>tual living. And this is now reduced to a Certainty, and known. And this every parſon, and vicar muſt have paid before the firſt of
+<pb n="57" facs="tcp:106288:33" rendition="simple:additions"/> 
+               <hi>April,</hi> yearly to the uſe of the Lord Protector. It was wont to be paid to the Biſhop, and by him into the Exche<g ref="char:EOLhyphen"/>quer, but now it is paid immediately into the Exchequer; &amp; by that Court the ſame is for<g ref="char:EOLhyphen"/>ced in <hi>Stat. 26. H. 8. 3. 32. H.</hi> 8. ch. 45. 5 <hi>Mary 1 Eliz.</hi> 4. But this alſo it ſeems is now imploy<g ref="char:EOLhyphen"/>ed as the firſt fruits are <hi>Act. 3. Iune</hi> 1649. and <hi>Ord. 2. September</hi> 1654.</p>
+            <p>7. He may not med<g ref="char:EOLhyphen"/>dle with any temporal Juriſdiction or Autho<g ref="char:EOLhyphen"/>rity, to the exerciſe whereof he is diſabled, 16, 17. <hi>Car.</hi> 17. And he
+<pb n="58" facs="tcp:106288:34" rendition="simple:additions"/> is forbidden the taking of Farmes, or taking of Parſonages, or Vica<g ref="char:EOLhyphen"/>rages, and the invol<g ref="char:EOLhyphen"/>ving of himſelfe in ſe<g ref="char:EOLhyphen"/>cular affaires, ſee for this 21. <hi>H. 8. 13. Dyer.</hi> 358.</p>
+            <p n="8">8. He is forbidden by Law to make a de<g ref="char:EOLhyphen"/>ſtruction upon the Be<g ref="char:EOLhyphen"/>nefice, or to leſſen the Revenue, and therfore he can lay no charge nor make any eſtate upon any part of it for longer time then his own life, except onely of ſuch Lands as have been uſually let, which he may let for three lives, or 21 yeares.
+<pb n="59" facs="tcp:106288:34" rendition="simple:additions"/> 
+               <hi>Stat. 13. Eliz. 1. 14. Eliz. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 18. Eliz.</hi> 10. And no Leaſe he can make of ſuch a Benefice with Cure is good longer then he is ordinarily reſident, and ſerving the cure there without abſence above foure<g ref="char:EOLhyphen"/>ſcore days in one year, <hi>Stat. 13. Eliz. 20. 18. E<g ref="char:EOLhyphen"/>liz. 10. 14. Eliz.</hi> 11. And yet he that is allowed to have two Benefices, may let one of them to his Curate that ſhall ſerve that cure. But that Leaſe wil be good onely ſo long as the Curate ſhal be reſident there without forty dayes abſence in one<note place="margin">Rat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <pb n="60" facs="tcp:106288:35" rendition="simple:additions"/> yeare, 13. <hi>Eliz. 20. 18. Eliz. 10. 4. Eliz.</hi> 11.</p>
+            <p n="9">9. He is as another man to pay his ſhare of rates to the poorer Church, &amp; highways<g ref="char:punc">▪</g> And now for the ſe<g ref="char:EOLhyphen"/>cond thing what theſe perſons are to have and receive, theſe things are to be known: they have to their perſons divers priviledges a<g ref="char:EOLhyphen"/>bove other men. For Firſt, ſuch a man can<g ref="char:EOLhyphen"/>not be Arreſted upon a Statute Merchant, or Staple; and if he be, he may have a writ called<note place="margin">
+                  <hi>Quod Cle<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cus cap<g ref="char:EOLhyphen"/>es virtute <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>atui de<g ref="char:EOLhyphen"/>beretur<g ref="char:punc">▪</g>
+                  </hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat</note> 
+               <hi>Quod clericus captus &amp; deliberetur,</hi> nor may he be Arreſted for any
+<pb n="61" facs="tcp:106288:35"/> cauſe but fellony, whi<g ref="char:EOLhyphen"/>leſt he is <hi>bona fide</hi> in the doing of his office and about his divine functi<g ref="char:EOLhyphen"/>on. And if therefore he be taken out of the Pulpit, whileſt he is Preaching or praying ſome have ſaid that for this he may have an Action of falſe impri<g ref="char:EOLhyphen"/>ſonment againſt them that doe it: But whe<g ref="char:EOLhyphen"/>ther it be ſo or no, this is certaine, that for this the perſons that doe it may be indicted and fi<g ref="char:EOLhyphen"/>ned. And for Arreſting a Miniſter in the going to, or comming from Church about the ſer<g ref="char:EOLhyphen"/>vice of God, the Bay<g ref="char:EOLhyphen"/>liffes
+<pb n="62" facs="tcp:106288:36"/> and thoſe that have any hand in it may be bound to the good behaviour. But if the Miniſter ſhall keep himſelfe in the Church of purpoſe to prevent ſuch Arreſts this priviledge wil not hold, <hi>Regiſt. Orig. 147<g ref="char:punc">▪</g> ſt. 50. Ed. 3. ch. 5. 1. R. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 15. 1 M.</hi> 3. Secondly<g ref="char:punc">▪</g> He is to be freed, and exempt from, and not bound to ſerve in any office that may diſturb or diſtract him in his calling. And therefore he is not bound to ſerve the office of Gon<g ref="char:EOLhyphen"/>ſtable, Con<g ref="char:EOLhyphen"/>ſtable, Tythingman, bayliff, beedle, church<g ref="char:EOLhyphen"/>warden,
+<pb n="63" facs="tcp:106288:36" rendition="simple:additions"/> overſeer of the poor, or the like Office; and albeit he hath ſe<g ref="char:EOLhyphen"/>cular Lands beſides his ſpiritual promotion, &amp; in reſpect thereof chargeable if he were another man, yet he is exempt for this alſo: And if any ſuch office be put upon him he may be relieved by a writ called, <hi>Quod cleri<g ref="char:EOLhyphen"/>ci non eligantur in officio</hi>
+               <note place="margin">Quod Cle<g ref="char:EOLhyphen"/>rici non e<g ref="char:EOLhyphen"/>ligantur in officio <hi>what</hi>
+               </note> 
+               <hi>&amp;c.</hi> And by this writ he may be diſcharged, <hi>F. V. B.</hi> 177.</p>
+            <p n="3">3. He is not bound to appeare or doe ſer<g ref="char:EOLhyphen"/>vice in a Leet, or Law day, as other men are, <hi>Marlb. chap.</hi> 10. and to
+<pb n="64" facs="tcp:106288:37"/> diſcharge them if they were, they had a writ to relieve them, <hi>F. N. B.</hi> 160.</p>
+            <p n="4">4. They ought not in perſon to ſerve in the warres: Alſo they ought to be quit and diſcharged of Toles &amp; Cuſtomes, Average, Pontage, Paviage, and the like for their Ec<g ref="char:EOLhyphen"/>cleſiaſtical goods: And if they had been mole<g ref="char:EOLhyphen"/>ſted therefore, they might have had reme<g ref="char:EOLhyphen"/>dy by a writ provided for the purpoſe: But this and many others are gone and loſt, ſee <hi>Coo.</hi> 2. part of his <hi>Inſt.</hi> 4. 121.</p>
+            <p n="4">
+               <pb n="65" facs="tcp:106288:37"/>4. And as they have priviledges for their perſons, ſo for their poſſeſſions of Lands &amp; goods, therefore it is provided that no di<g ref="char:EOLhyphen"/>ſtreſſe be taken in the ancient Fees or Lands belonging to the Church, as in the Glebe of a Parſon; or the like, that their goods be not diſtreined for a fif<g ref="char:EOLhyphen"/>teenth due from the whole Pariſh; if they be, he may be relieved by a writ called, <hi>Quod perſonae, nec prebendarii</hi>
+               <note place="margin">Quod per<g ref="char:EOLhyphen"/>ſonae nec prebenda<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ij diſtrin<g ref="char:EOLhyphen"/>gantur <hi>&amp;c.</hi>
+               </note> 
+               <hi>diſtring antur;</hi> &amp;c. That neither themſelves nor their Farmers; or Te<g ref="char:EOLhyphen"/>nants
+<pb n="66" facs="tcp:106288:38" rendition="simple:additions"/> were to be forc'd by Surveyors for the Kings uſe, ſee for this 9 <hi>Ed. 2, ch. 9. F. N. B. 173, 176. Cromp: Jur.</hi> 38.</p>
+            <p n="4">4. They are to have a competency of main<g ref="char:EOLhyphen"/>tenance: And for this the <hi>Law</hi> gives them theſe things: Firſt, they are to have the houſes belonging to the Mini<g ref="char:EOLhyphen"/>ſter, the Glebe, the Tythes, the profits of the Church-yard, the oblations, obventions, &amp; Mortuaries therunto belonging; but for all this ſee my Booke of Tythes; and the profits
+<pb n="67" facs="tcp:106288:38" rendition="simple:additions"/> ſequeſtred and recei<g ref="char:EOLhyphen"/>ved during the vacati<g ref="char:EOLhyphen"/>on are to be paid unto the Parſon ſucceeding, ſave only the charge of taking in, &amp;c. And for ſerving the cure in that<note place="margin">Eruble<g ref="char:EOLhyphen"/>ments.</note> time, 21. <hi>H.</hi> 8. 11. They are to have the Corne growing upon the Glebe when they dye, and may by their will give it to whom<note place="margin">will.</note> they will, 21. H. 8. <hi>ch.</hi> 11</p>
+            <p n="3">3. They may make<note place="margin">Leaſes.</note> any Leaſe of, or charge upon their Benefice for their own lives, and Leaſes for three lives, and one and twenty
+<pb n="68" facs="tcp:106288:39" rendition="simple:additions"/> yeeres of the Land that hath been uſual<g ref="char:EOLhyphen"/>ly ſo let, <hi>Stat. 13. Eliz.</hi> 10.</p>
+            <p n="4">4. There are now di<g ref="char:EOLhyphen"/>vers<note place="margin">14. Aug<g ref="char:EOLhyphen"/>mentati<g ref="char:EOLhyphen"/>ons.</note> additional helpes for their maintenance by way of Augmenta<g ref="char:EOLhyphen"/>tion, as touching which theſe things are to be known.</p>
+            <p n="1">1. There is a great Revenue given to be imployed to this pur<g ref="char:EOLhyphen"/>poſe, and Commiſſio<g ref="char:EOLhyphen"/>ners eſpecially appoin<g ref="char:EOLhyphen"/>ted to take and receive accompt thereof, and to look to the im<g ref="char:EOLhyphen"/>provement thereof; ſee the Acts and Ordinan<g ref="char:EOLhyphen"/>ces
+<pb n="69" facs="tcp:106288:39"/> 
+               <hi>June 8. 1649. April 5 1650. Sept.</hi> 2. 1654. 2. Theſe Lawes judge an hundred pound a yeare competent for Miniſters, ſave onely in Townes and Cities; 3. Theſe Commiſ<g ref="char:EOLhyphen"/>ſioners are to over<g ref="char:EOLhyphen"/>look all the Augmen<g ref="char:EOLhyphen"/>tations, and by, and with the Approbation of the LORD PROTE<g ref="char:EOLhyphen"/>CTOR, and his Coun<g ref="char:EOLhyphen"/>ſel they may make, adde to, and take from what they pleaſe. 3. For their help of main<g ref="char:EOLhyphen"/>tenance, they may di<g ref="char:EOLhyphen"/>vide, or unite Chur<g ref="char:EOLhyphen"/>ches; as touching
+<pb n="70" facs="tcp:106288:40"/> which take theſe<note place="margin">15. Union and Divi<g ref="char:EOLhyphen"/>ſion of Pariſhes and Churches.</note> things. The Commiſ<g ref="char:EOLhyphen"/>ſioners may procure from the Chancery the Returne of all the for<g ref="char:EOLhyphen"/>mer Commiſſions exe<g ref="char:EOLhyphen"/>cuted, and have new Commiſſions where they pleaſe, for the diſcovery of the value of parſonages and vi<g ref="char:EOLhyphen"/>carages, with, or with<g ref="char:EOLhyphen"/>out cure of ſouls, the Incumbents ſcituation of the Churches, &amp;c. 2. When they are in<g ref="char:EOLhyphen"/>formed of the Caſe, by and with the approba<g ref="char:EOLhyphen"/>tion of the LORD PRO<g ref="char:EOLhyphen"/>TECTOR and his coun<g ref="char:EOLhyphen"/>ſel out of Parliament
+<pb n="71" facs="tcp:106288:40"/> Time, they may unite two or more Churches together, and all the profits thereof, if one of them be not main<g ref="char:EOLhyphen"/>tained at the charge of the Pariſhioners, and appoint which Church ſhall be the meeting place, and then they muſt be taxed altoge<g ref="char:EOLhyphen"/>ther to repair, but o<g ref="char:EOLhyphen"/>ther taxes ſhall go as before, and have their Church wardens as for<g ref="char:EOLhyphen"/>merly; the patrons ſhal preſent by turne, as the Commiſſioners ſhall ſet down. 4. In this caſe where they ſee good they may pull
+<pb n="72" facs="tcp:106288:41"/> down one of the chur<g ref="char:EOLhyphen"/>ches, and keep the ma<g ref="char:EOLhyphen"/>terials for publick uſe<g ref="char:punc">▪</g> 4. They may alſo, by, and with the Appro<g ref="char:EOLhyphen"/>bation aforeſaid, ſever and divide Pariſhes, and fix the mainte<g ref="char:EOLhyphen"/>nance out of the pro<g ref="char:EOLhyphen"/>fits of the Church where they think fit. See the Ordinance at large for theſe things.</p>
+            <p n="5">5. And now in the laſt place, if being in<note place="margin">15. Scan<g ref="char:EOLhyphen"/>dalous and ill af<g ref="char:EOLhyphen"/>fected Mi<g ref="char:EOLhyphen"/>niſters and Scholma<g ref="char:EOLhyphen"/>ſters.</note> this office he be found inſufficient, or ill af<g ref="char:EOLhyphen"/>fected, or be ſcanda<g ref="char:EOLhyphen"/>lous there for his life or doctrine, he is to be
+<pb n="73" facs="tcp:106288:41"/> ejected by Ordinance, 29. <hi>Aug.</hi> 1654. And for this theſe things are to be known. There are Commiſſio<g ref="char:EOLhyphen"/>ners of every county to put in execution this Ordinance. 2. A<g ref="char:EOLhyphen"/>ny five of theſe Com<g ref="char:EOLhyphen"/>miſſioners may con<g ref="char:EOLhyphen"/>vent before them any ſcandalous, ignorant, negligent, inſufficient, and diſaffected Mini<g ref="char:EOLhyphen"/>ſter, preacher, ſchool<g ref="char:EOLhyphen"/>maſter, and examin Witneſſes againſt, and put him out of his place, if they finde him guilty of matter of ſcandal, or ill affection
+<pb n="74" facs="tcp:106288:42"/> to the Government in any of the Particulars here mentioned. 3. The things for which he is to be put out are<g ref="char:punc">▪</g> 1. If he hath been for<g ref="char:EOLhyphen"/>merly ejected, or ſe<g ref="char:EOLhyphen"/>queſtred, and yet keeps in his place. 2. If he hath held, and maintained any of the Blaſphemous opinions of the third and laſt rank before named at Sect. 1. or have held, taught, &amp; maintained the Popes ſupremacy, Tranſubſtantiation, Purgatory, worſhiping of Images<g ref="char:punc">▪</g> that the Conſecrated Hoſt, Cru<g ref="char:EOLhyphen"/>cifixes,
+<pb n="75" facs="tcp:106288:42"/> or Images are to be worſhiped. That Salvation may be me<g ref="char:EOLhyphen"/>rited by works; or be found guilty of pro<g ref="char:EOLhyphen"/>fane ſwearing, or cur<g ref="char:EOLhyphen"/>ſing, Perjury, or ſubor<g ref="char:EOLhyphen"/>dination of Perjury, A<g ref="char:EOLhyphen"/>dultery, fornication, Drunkeneſſe, common haunting of Taverns, or Alehouſes, fre<g ref="char:EOLhyphen"/>quent Quarrelling or fighting, frequent playing at Cards, or Dice, profaning of the Sabbath day, or allow the ſame in their fa<g ref="char:EOLhyphen"/>milies, or countenance it in their pariſhes, or ſcholers, or have pub<g ref="char:EOLhyphen"/>likely,
+<pb n="76" facs="tcp:106288:43"/> and frequently read, and uſed the book of common<g ref="char:EOLhyphen"/>prayer ſince 1. <hi>Janu.</hi> 1653. or have been publikely profane ſcoffers at, or revilers of the ſtrict profeſſion, and profeſſors of Reli<g ref="char:EOLhyphen"/>gion, or Godlineſſ; or do encourage, or coun<g ref="char:EOLhyphen"/>tenance by word, OF practiſe Whitſon Ales, Wakes, Morrice-dan<g ref="char:EOLhyphen"/>ces, May poles, Stage<g ref="char:EOLhyphen"/>plaies, or ſuch like li<g ref="char:EOLhyphen"/>centious practiſes, or have by writting preaching, or other<g ref="char:EOLhyphen"/>wiſe declared their diſaffection to the pre<g ref="char:EOLhyphen"/>ſent
+<pb n="77" facs="tcp:106288:43"/> Government, or are negligent, non-re<g ref="char:EOLhyphen"/>ſident, and careleſſe of praying, preaching &amp;c: or of their ſchollers if they are ſchoolmaſters having no excuſe for it 3. If he be put out for inſufficiency, it muſt be with conſent decla<g ref="char:EOLhyphen"/>red of five Miniſters alſo. 4. Where they put out a ſchoolmaſter they may put in ano<g ref="char:EOLhyphen"/>other as long as he lives, as oft as the place ſhall be void. 5. They may ſequeſter the pro<g ref="char:EOLhyphen"/>fits livings out of which they put out any Miniſter in the
+<pb n="78" facs="tcp:106288:44"/> hands of ſome of the Pariſh, to provide for the place, repaire the houſes, and to keep for the next Incumbent. 6. If the party put out be gone, they may al<g ref="char:EOLhyphen"/>low his wife and chil<g ref="char:EOLhyphen"/>dren a fifth part, and force payment there of by ſequeſtration. 6. None may keep ſchool in the place where he was put out, under pain of 10 s. a day; ſee the <hi>Ordinance</hi> of 2. <hi>Sept.</hi> 1654 at large. And now as touching all the reſt of the Rabble of the men, and orders for<g ref="char:EOLhyphen"/>merly called religious,
+<pb n="79" facs="tcp:106288:44"/> of the Regular and ſe<g ref="char:EOLhyphen"/>cular Clergie, ſuch as were the Abbots, Pri<g ref="char:EOLhyphen"/>ars, Monks, Friars, Canons, Nuns, Arch-Biſhops, Biſhops, Deans, Arch-deacons, Pre<g ref="char:EOLhyphen"/>bens, and the like, theſe are aboliſhed, and gone, and not owned by our Law at this day, <hi>Ord. 9. Octob.</hi> 1646. We<note place="margin">Metropo<g ref="char:EOLhyphen"/>litan. Biſhop. Suffragan! Conſecra<g ref="char:EOLhyphen"/>tion. Conge<g ref="char:EOLhyphen"/>de Eſtier. Regio Aſsſenſu.</note> are ſilent therefore a<g ref="char:EOLhyphen"/>bout Metropolitans, Biſhops, Suffragans, and ſay nothing of Conge de Eſtier, Con<g ref="char:EOLhyphen"/>ſecration, regio Aſ<g ref="char:EOLhyphen"/>ſenſu, and ſuch like a<g ref="char:EOLhyphen"/>boliſhed things, <hi>See Name.</hi>
+            </p>
+            <pb n="80" facs="tcp:106288:45" rendition="simple:additions"/>
+            <p>The Convocation houſe<note place="margin">Convoca<g ref="char:EOLhyphen"/>tion hourſe</note> was the houſe wherein the whole Clergy, did aſſemble to conſult of matters Eccleſiaſtical in time of Parliament. It did conſiſt of two houſes, an upper houſe where the Archbiſhops and Biſhops alone did ſit, and a lower houſe, where all the reſt of the Clergy did ſit; And the lower houſe, was made up of Clergy<note place="margin">Proctors of the Clergy.</note> men Choſen for Ca<g ref="char:EOLhyphen"/>thedral, and Collegi<g ref="char:EOLhyphen"/>ate Churches; and for the common Clergy of every Dioceſſe, which were called Proctors of<note place="margin">Prolocu<g ref="char:EOLhyphen"/>tor.</note> the Clergy, like to the
+<pb n="81" facs="tcp:106288:45"/> members of the houſe of Commons, And in both theſe houſes they had one they called a Prolocutor, like to the the ſpeaker in the Par<g ref="char:EOLhyphen"/>liament. But theſe<note place="margin">Cannons.</note> things are now gone and aboliſhed. And yet it ſeemes the pro<g ref="char:EOLhyphen"/>vincial, or Sinodal Cannons, and Conſtitu<g ref="char:EOLhyphen"/>tions formerly made by the Clergy in the Convocation houſe, or in their other convoca<g ref="char:EOLhyphen"/>tions that are not con<g ref="char:EOLhyphen"/>trary to the royal Pre<g ref="char:EOLhyphen"/>rogative, or the Laws, and Cuſtomes of the Realme are ſtill in force, if there were any
+<pb n="82" facs="tcp:106288:46" rendition="simple:additions"/> way to put them in execution, as there is not, for the Biſhops and their Courts are gone, and therefore the can<g ref="char:EOLhyphen"/>nons can be of no force at this day <hi>Stat 25. H. 8. ch. 19. 27. H. 8. 15. 8. Ed. 6. ch.</hi> 17.</p>
+            <p>As to Diſcipline by Church Cenſures, th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <note place="margin">Diſcipline</note> is now left to the Re<g ref="char:EOLhyphen"/>gular, and orderly Churches to be uſed and Ordered amongſt themſelves in Chriſt, and his Goſpels way. But for National diſci<g ref="char:EOLhyphen"/>pline by way of Ex<g ref="char:EOLhyphen"/>communication, ſuſ<g ref="char:EOLhyphen"/>penſion, and the like,
+<pb n="83" facs="tcp:106288:46" rendition="simple:additions"/> there can be none ſuch uſed in theſe daies, Biſhops being gone, for there is no Law, nor way for it.</p>
+            <p>
+               <hi>S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the old Statutes of the Clergy and that <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> them. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> H. 6. 1. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 5. Weſtm. 1. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 5. 1. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> H. 4. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Act <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb n="84" facs="tcp:106288:47"/> 
+               <hi>Sale of their Lands. 25. June 1649. 23: June 1649. 2. June 1649. 20. June</hi> 1649.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="book_description">
+            <pb facs="tcp:106288:47"/>
+            <p>
+               <hi>Sheppard,</hi> of the Laws concerning Religion.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
